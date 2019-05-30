@@ -1,2 +1,3 @@
 # Machine-Learning-Projects
-Course projects
+Course Projects
+
